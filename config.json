@@ -1,0 +1,23 @@
+{
+  "bot": {
+    "token": "DEIN_BOT_TOKEN",
+    "clientId": "DEINE_CLIENT_ID",
+    "guildId": "DEINE_GUILD_ID"
+  },
+  "channels": {
+    "welcome": "WILLKOMMEN_CHANNEL_ID",
+    "farewell": "VERLASSEN_CHANNEL_ID"
+  },
+  "messages": {
+    "welcomeTitle": "Willkommen auf dem Server!",
+    "welcomeMessage": "Hey {user}, schön, dass du da bist!",
+    "farewellTitle": "Nutzer hat den Server verlassen",
+    "farewellMessage": "{user} hat uns verlassen. Mach's gut!"
+  },
+  "style": {
+    "welcomeColor": "#00FF7F",
+    "farewellColor": "#FF5555",
+    "embedFooter": "© Discord Bot",
+    "embedTimestamp": true
+  }
+}
